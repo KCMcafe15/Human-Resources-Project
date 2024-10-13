@@ -14,7 +14,7 @@ As an HR manager, I want a comprehensive dashboard to analyze human resources da
 ## Summary View
 The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
 
-![Dashboard Overview](https://github.com/ClaireC-15/HR-Tableau-Project/blob/0a03b30148c23d3b83fcab70b4f61c13479e8ea1/img/HR%201.webp)
+![Dashboard Overview](https://github.com/KCMcafe15/Human-Resources-Project/blob/6356c7351eb6b8a9f9251e3e38fa5a0a3c39cb43/img/HR%201.webp)
 
 ## Overview
 The Overview section should provide a snapshot of the overall HR metrics, including:  <br>
@@ -37,7 +37,7 @@ The income analysis section should focus on salary-related metrics, including:<b
 •	Compare salaries across different education levels for both genders to identify any discrepancies or patterns. <br>
 •	Present how the age correlate with the salary for employees in each department. <br>
 
-![Dashboard Overview](https://github.com/ClaireC-15/HR-Tableau-Project/blob/5594af775311b2c94aff41d216fb501b9898022f/img/HR%202.webp)
+![Dashboard Overview](https://github.com/KCMcafe15/Human-Resources-Project/blob/6356c7351eb6b8a9f9251e3e38fa5a0a3c39cb43/img/HR%202.webp)
 
 ## Employee Records View
 •	Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary. <br>
